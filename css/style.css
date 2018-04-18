@@ -1,0 +1,9 @@
+body {
+    background: url('../images/wall1.jpg');
+    text-align: center;
+    font-family: 'Coda', cursive;
+}
+
+h1 {
+  color: blue;
+}
